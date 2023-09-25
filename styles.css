@@ -208,6 +208,12 @@ section
     margin: auto 0;
 }
 
+.section__pic-container img 
+{
+    border-radius: 10%;
+
+}
+
 .section__text
 {
     align-self: center;
@@ -405,6 +411,7 @@ section
     gap: 2.5rem;
     justify-content: space-around;
 }
+
 
 
 article
